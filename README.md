@@ -33,6 +33,6 @@ This dashboard helped transform raw sales data into **actionable insights**, ena
 
 ---
 
-## 📂 Project Structure  
+
 
 
